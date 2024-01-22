@@ -6,3 +6,4 @@ package-lock.json
 .npmrc
 rollup.config.mjs
 public
+.storybook
